@@ -2,5 +2,6 @@
 2-Color Corner Memo Trainer
 
 Space = Next
+
 Enter = Show Answer
 
